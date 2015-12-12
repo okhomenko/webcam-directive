@@ -1,8 +1,9 @@
 {
-  "name": "webcam",
+  "name": "webcam-directive",
   "author": "Jonas Hartmann",
   "version": "3.0.0",
   "dependencies": {},
+  "main": "./app/scripts/webcam.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-bower-requirejs": "~0.4.1",
